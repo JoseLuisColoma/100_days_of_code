@@ -1,3 +1,4 @@
+
 # Simple function
 def greet():
     print("Hola")
@@ -44,3 +45,13 @@ def greet_with_arg(**kwargs):
 
 
 greet_with_arg(a="Juan", b="Pedrito", c="Andres")
+
+
+frutas = ['pera', 'manzana', 'platano']
+posiciones = []
+for fruta in frutas:
+    posicion = frutas.index(fruta)
+    posiciones.append(posicion)
+
+print(posiciones)
+
