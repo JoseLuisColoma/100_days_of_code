@@ -1,10 +1,14 @@
-## Day 8: Function Parameters & Caesar Cipher
+## Day 10 - Functions with Outputs
 
 Concepts Practised
 
-- Functions with Inputs 
-- Positional vs. Keyword Arguments
+- Function with Outputs 
+- Multiple return values 
+- Docstrings 
+- Combining Dictionaries and Functions 
+- Print vs. Return 
+- While Loops, Flags and Recursion
 
-### Project Day 8: Caesar Cipher
+### Project Day 10: Calculator
 
-![img.png](img.png)
+![img_1.png](img_1.png)
