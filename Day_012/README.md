@@ -4,6 +4,6 @@ Concepts Practised
 - How to Modify a Global Variable
 - Python Constants and Global Scope
 
-### Day 12: The Number Guessing Game
+### Day 12 project: The Number Guessing Game
 
 ![img.png](img.png)
